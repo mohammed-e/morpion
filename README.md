@@ -12,4 +12,4 @@ Commande d'exécution : make play<br />
 Suppression des fichiers objets : make clean<br />
 Suppression de tous les fichiers générés avec make : make mrproper<br />
 <br />
-Le rapport vous fournira plus explications sur ce projet.
+Le <a href="./rapport.pdf">rapport</a> vous fournira plus explications sur ce projet.
